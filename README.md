@@ -1,4 +1,9 @@
-Soccer Way Player Parser
+http://uk.soccerway.com
+
+Player Parser.
+
+Parses demographics player information and return json object.
+
 
 ```javascript
 node app.js <player_id>
